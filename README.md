@@ -1,4 +1,4 @@
-✈️ Flight Fare Prediction using Machine Learning
+##✈️ Flight Fare Prediction using Machine Learning
 📌 Project Overview
 
 Flight Fare Prediction is an end-to-end machine learning regression project focused on predicting flight ticket prices using historical flight data.
